@@ -1,4 +1,2 @@
-print("adam")
-
-
-
+adam
+#adam
